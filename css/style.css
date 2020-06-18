@@ -1,0 +1,13 @@
+.box {
+	min-height: 50px;
+	color: #fff;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.min-hight {
+	min-height: 100px;
+	background-color: #ddd;
+}
+.no-margin {
+	margin: 0;
+}
